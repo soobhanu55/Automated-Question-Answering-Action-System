@@ -6,16 +6,17 @@ This project demonstrates how Large Language Models can be combined with vector 
 
 
 Features :
-🔍 Retrieval-Augmented Generation (RAG) using vector similarity search
-🧠 Context-aware reasoning with memory handling
-🛠️ Dynamic function execution based on user intent
-📚 Semantic document indexing & retrieval
-🧩 Keyword + embedding hybrid matching
-🧪 Modular and extensible execution pipeline
-⚡ Designed for scalable LLM applications
+- Retrieval-Augmented Generation (RAG) using vector similarity search
+- Context-aware reasoning with memory handling
+- Dynamic function execution based on user intent
+- Semantic document indexing & retrieval
+- Keyword + embedding hybrid matching
+- Modular and extensible execution pipeline
+- Designed for scalable LLM applications
 
 
 🏗️ System Architecture :
+
 User Query
    ↓
 Intent Detection (LLM)
@@ -30,13 +31,13 @@ LLM-generated Response
 
 
 🧠 Tech Stack :
-Python
-Large Language Models (LLMs)
-Retrieval-Augmented Generation (RAG)
-Vector Embeddings
-LangChain-style execution flow
-Semantic Search
-Jupyter Notebook (for experimentation & prototyping)
+- Python
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Vector Embeddings
+- LangChain-style execution flow
+- Semantic Search
+- Jupyter Notebook (for experimentation & prototyping)
 
 
 🧪 How It Works :
