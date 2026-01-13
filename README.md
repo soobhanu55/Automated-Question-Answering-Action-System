@@ -17,17 +17,17 @@ Features :
 
 🏗️ System Architecture :
 
-User Query
+- User Query
    ↓
-Intent Detection (LLM)
+- Intent Detection (LLM)
    ↓
-Context Retrieval (Vector Store)
+- Context Retrieval (Vector Store)
    ↓
-Function / Tool Selection
+- Function / Tool Selection
    ↓
-Dynamic Execution
+- Dynamic Execution
    ↓
-LLM-generated Response
+- LLM-generated Response
 
 
 🧠 Tech Stack :
@@ -41,14 +41,15 @@ LLM-generated Response
 
 
 🧪 How It Works :
-User submits a natural language query
-The LLM identifies intent and required action
-Relevant documents are retrieved using vector similarity
-Context is injected into the prompt
-The system selects and executes the appropriate function
-The LLM formats and returns the final response
+- User submits a natural language query
+- The LLM identifies intent and required action
+- Relevant documents are retrieved using vector similarity
+- Context is injected into the prompt
+- The system selects and executes the appropriate function
+- The LLM formats and returns the final response
 
 🛠️ Installation & Setup :
+
 git clone https://github.com/your-username/llm-rag-function-execution.git
 cd llm-rag-function-execution
 pip install -r requirements.txt
@@ -57,17 +58,17 @@ Run the notebook:
 jupyter notebook "LLM RAG Execution.ipynb"
 
 📌 Use Cases :
-AI Assistants with tool execution
-Knowledge-based QA systems
-Autonomous agents
-Enterprise document querying
-LLM-powered APIs
-Function calling & orchestration systems
+- AI Assistants with tool execution
+- Knowledge-based QA systems
+- Autonomous agents
+- Enterprise document querying
+- LLM-powered APIs
+- Function calling & orchestration systems
 
 📈 Future Improvements :
-API deployment (FastAPI / Flask)
-Streaming responses
-Multi-agent support
-Improved memory management
-Evaluation & benchmarking
-UI integration
+- API deployment (FastAPI / Flask)
+- Streaming responses
+- Multi-agent support
+- Improved memory management
+- Evaluation & benchmarking
+- UI integration
