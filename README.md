@@ -18,15 +18,10 @@ The system demonstrates how **LLMs can act as reasoning engines that trigger rea
 
 ## System Flow
 User Query
-↓
 Intent Detection (LLM)
-↓
 Context Retrieval (Vector Store)
-↓
 Function Selection
-↓
 Execution Layer
-↓
 LLM Response
 
 ---
